@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">1157902141026309</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_search__location">Map</string>
+    <string name="title_activity_nearby__places">Map</string>
+    <string name="title_activity_directions">Directions</string>
+    <string name="title_activity_payment_gateway">PaymentGateway</string>
+    <string name="title_activity_payment_details">PaymentDetails</string>
+    <string name="title_activity_facebook_integration">Facebook_integration</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_pushnotifications">Pushnotifications</string>
+    <string name="title_activity_recyclerview_adapter">RecyclerviewAdapter</string>
+    <string name="title_activity_jsonparsingg">Jsonparsingg</string>
+</resources>
